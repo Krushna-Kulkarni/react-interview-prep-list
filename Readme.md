@@ -37,7 +37,9 @@ React Interview Prep ToDo List
 - HTML interview Qs
 - CSS interview Qs
 - Previous Work Exp Qs.
-- Output based Qs from github repos. -[Repo](https://github.com/Narahari-Sundaragopalan/JavaScript-Interview-Questions/blob/master/questions/coding-questions.md)
+- Output based Qs from github repos.
+  - [Repo 1](https://github.com/Narahari-Sundaragopalan/JavaScript-Interview-Questions/blob/master/questions/coding-questions.md)
+  - [Repo 2](https://github.com/lydiahallie/javascript-questions)
 - OOPS in JS
 - Sorting algos
 - How Web works
